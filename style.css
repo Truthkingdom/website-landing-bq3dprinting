@@ -2605,3 +2605,29 @@ body.mobile .animated {
 		top: 10px;
 	}
 }
+
+.contact-form-btn input {
+	display: inline-block;
+	background: transparent;
+	border-radius: 0;
+	padding: 9px 50px;
+	color: #333;
+	line-height: 22px;
+	font-size: 16px;
+	outline: none;
+	outline-offset: 0px;
+	font-weight: 400;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 2px solid #fff;
+	-webkit-transition: all .3s ease-in-out;
+	-moz-transition: all .3s ease-in-out;
+	-ms-transition: all .3s ease-in-out;
+	-o-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
+}
+
+.contact-form-btn .border-bt-red {
+    border-color: #DD4B39;
+    color: #DD4B39;
+}
