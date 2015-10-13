@@ -959,6 +959,7 @@ textarea::-webkit-input-placeholder {
 
 .services {
 	background: #fff;
+	padding: 100px 0;
 }
 
 .service h3 {
